@@ -50,3 +50,29 @@ Selanjutnya membuat content artikel. Tambahkan HTML berikut pada main content.
 ![conten artikel](https://user-images.githubusercontent.com/56400553/115844417-a4e81700-a3d4-11eb-9426-80fd91737200.png)
 
 ![akhir](https://user-images.githubusercontent.com/56400553/115844641-e24ca480-a3d4-11eb-9095-ef642859e0ae.png)
+
+Pertanyaan dan Tugas 
+1. Tambahkan Layout untuk menu About => buat single layout yang berisi deskripsi, portfolio, dll
+Berikut adalah source codenya :
+
+![coding about me](https://user-images.githubusercontent.com/56400553/115886436-c6adc200-a405-11eb-8836-d725a793a265.png)
+![next](https://user-images.githubusercontent.com/56400553/115886521-dd541900-a405-11eb-8bdd-a4b2950258d2.png)
+![next 2](https://user-images.githubusercontent.com/56400553/115886556-e644ea80-a405-11eb-9154-36d9937bcd02.png)
+
+Kemudian lihat hasilnya di web browser
+![ss about me](https://user-images.githubusercontent.com/56400553/115886642-fc52ab00-a405-11eb-89aa-9430f0947ebf.png)
+
+2.Tambahkan layout untuk menu Contact => yang berisi form isian: nama, email, message, dll
+berikut source codenya :
+![kontak](https://user-images.githubusercontent.com/56400553/115886823-2ad08600-a406-11eb-9bad-d822d7c3e30c.png)
+
+Kemudian lihat hasilnya di web browser
+![ss kontak](https://user-images.githubusercontent.com/56400553/115886950-476cbe00-a406-11eb-9789-97f17478d1af.png)
+
+
+
+
+
+
+
+
